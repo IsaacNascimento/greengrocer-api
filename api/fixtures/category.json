@@ -1,0 +1,50 @@
+[
+    {
+        "model": "api.Category",
+        "pk": 1,
+        "fields": {
+            "title": "Cereais",
+            "id": "aGN3NQKlXp"
+        }
+    },
+    {
+        "model": "api.Category",
+        "pk": 2,
+        "fields": {
+            "title": "Temperos",
+            "id": "FfR42OYUu5"
+        }
+    },
+    {
+        "model": "api.Category",
+        "pk": 3,
+        "fields": {
+            "title": "Verduras",
+            "id": "4nNge88BPT"
+        }
+    },
+    {
+        "model": "api.Category",
+        "pk": 4,
+        "fields": {
+            "title": "Grãos",
+            "id": "G1Gkh4GhGa"
+        }
+    },
+    {
+        "model": "api.Category",
+        "pk": 5,
+        "fields": {
+            "title": "Frutas",
+            "id": "BARwahKhdq"
+        }
+    },
+    {
+        "model": "api.Category",
+        "pk": 6,
+        "fields": {
+            "title": "Legumes",
+            "id": "qEZV0UMzT5"
+        }
+    }
+]
