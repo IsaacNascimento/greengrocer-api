@@ -11,6 +11,7 @@ def index(request):
             {"Auth"},
             {"Products": [
                 {"categories": "get-category-list"},
+                {"product": "get-product-list"},
             ],
             },
             {"Cart"},

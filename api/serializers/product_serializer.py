@@ -1,6 +1,14 @@
 from rest_framework import serializers
+from api.models import Category, Product
 
-class CategorySerializer(serializers.Serializer):
-    id = serializers.CharField(max_length=8)
-    title = serializers.CharField(max_length=8)
     
+class CategorySerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Category
+        fields = '__all__'
+    
+class ProductSerializer(serializers.ModelSerializer):
+    category = CategorySerializer(many=False)
+    class Meta:
+        model = Product
+        fields = '__all__'

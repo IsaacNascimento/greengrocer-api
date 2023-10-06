@@ -1,0 +1,82 @@
+[
+  {
+    "model": "api.product",
+    "pk": 1,
+    "fields": {
+      "title": "Maçã",
+      "id": "BmNBGT7X7R",
+      "description": "A maçã é uma fruta versátil e saudável, com uma casca crocante e polpa adocicada. É uma ótima fonte de vitaminas C e A, bem como fibras e minerais importantes. Pode ser consumida in natura ou usada em receitas de sobremesas, sucos e refeições.",
+      "price": 10,
+      "unit": "kg",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/bf62826e5a2c2c641511b985ee292195_maca.png",
+      "category": "BARwahKhdq"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 2,
+    "fields": {
+      "id": "hNJx3rdYX8",
+      "title": "Banana",
+      "description": "Doce e suculenta, a banana é uma fruta extremamente versátil e saborosa. Rica em nutrientes essenciais, como potássio, fibras e vitaminas, ela pode ser consumida in natura ou em diversas receitas, como bolos, tortas, smoothies e muito mais. Não deixe de experimentar a deliciosa banana agora mesmo!",
+      "price": 1.5,
+      "unit": "un",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/dc5dc468913a91274c53211d39adc672_banana.png",
+      "category": "BARwahKhdq"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 3,
+    "fields": {
+      "id": "sjNXk8XyZC",
+      "title": "Abacaxi",
+      "description": "O abacaxi é uma fruta tropical irresistível, com seu sabor doce e azedo e textura suculenta. Rico em vitamina C e enzimas digestivas, o abacaxi é uma escolha saudável e refrescante para qualquer ocasião, seja como lanche, sobremesa ou ingrediente em receitas. Além disso, seu aroma delicioso é capaz de transportar você para uma praia paradisíaca. Experimente o abacaxi agora mesmo e desfrute de todo o sabor e benefícios que ele oferece!",
+      "price": 5.5,
+      "unit": "un",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/df6b278df4ae83001b4ff95fc2f8f7ad_abacaxi.png",
+      "category": "BARwahKhdq"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 4,
+    "fields": {
+      "id": "xsn71kavgb",
+      "title": "Amora",
+      "description": "Pequena e suculenta, a amora é uma fruta extremamente saborosa e saudável. Rica em antioxidantes, vitaminas e fibras, ela pode ser consumida fresca ou em receitas diversas, como bolos, tortas, geleias e muito mais. Aproveite todo o sabor e os benefícios da amora agora mesmo!",
+      "price": 11.25,
+      "unit": "kg",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/a1a5f85462651969f797c92f94414a6c_amora.png",
+      "category": "BARwahKhdq"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 5,
+    "fields": {
+      "id": "feS2aF7biq",
+      "title": "Ameixa",
+      "description": "A ameixa é uma fruta suculenta e doce, com um sabor inigualável que agrada a todos os paladares. Rica em antioxidantes, fibras e nutrientes essenciais, a ameixa é uma escolha saudável para quem busca uma alimentação equilibrada. Além disso, ela é extremamente versátil e pode ser consumida fresca, seca, em compotas, geleias e diversas outras receitas. Não perca a chance de experimentar a deliciosa ameixa e descobrir todos os seus benefícios para a saúde!",
+      "price": 1.5,
+      "unit": "un",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/8a52db4ef9de744c494ae4af52b33f00_ameixa.png",
+      "category": "BARwahKhdq"
+    }
+  },
+  {
+    "model": "api.product",
+    "pk": 5,
+    "fields": {
+      "id": "CqGuLvRSCv",
+      "title": "Cenoura",
+      "description": "A cenoura é um vegetal versátil e saudável, perfeito para ser consumido crus ou cozidos. É rico em vitaminas e minerais, especialmente vitamina A, e é uma ótima fonte de fibra.",
+      "price": 5.75,
+      "unit": "kg",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/a240d7846eb59eafb0aa77b88449a9ef_cenoura.png",
+      "category": "qEZV0UMzT5"
+    }
+  }
+]
