@@ -6,7 +6,7 @@ class Category(models.Model):
 
 class Product(models.Model):
     id = models.CharField(max_length=15, primary_key=True)
-    title = models.CharField(max_length=10)
+    title = models.CharField(max_length=25)
     description = models.TextField()
     price = models.DecimalField(max_digits=5, decimal_places=2)
     unit = models.TextField(max_length=2)

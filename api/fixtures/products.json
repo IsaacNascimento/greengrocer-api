@@ -40,6 +40,7 @@
       "category": "BARwahKhdq"
     }
   },
+
   {
     "model": "api.product",
     "pk": 4,
@@ -53,6 +54,7 @@
       "category": "BARwahKhdq"
     }
   },
+
   {
     "model": "api.product",
     "pk": 5,
@@ -66,9 +68,80 @@
       "category": "BARwahKhdq"
     }
   },
+
   {
     "model": "api.product",
     "pk": 5,
+    "fields": {
+      "id": "60iwHGQCCE",
+      "title": "Cajú",
+      "description": "Fruto do cajueiro, o cajú é uma fruta típica do Brasil, com sabor adocicado e textura crocante. Ele pode ser consumido fresco ou torrado, salgado ou doce, e é rico em nutrientes como vitamina C, ferro e fibras. Não perca a chance de experimentar o delicioso cajú e descobrir todos os seus benefícios para a saúde!",
+      "price": 27.5,
+      "unit": "kg",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/41517a7265a486775b9a7178ceb2d155_caju.png",
+      "category": "BARwahKhdq"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 6,
+    "fields": {
+      "id": "6WnINIBhsk",
+      "title": "Coco",
+      "description": "O coco é um alimento tropical cheio de sabor e nutrição. É uma fonte rica de gordura saudável, proteínas, fibras e minerais, como ferro, potássio e magnésio. Além disso, o óleo de coco é uma ótima opção para cozinhar e para ser usado como hidratante natural.",
+      "price": 2.5,
+      "unit": "un",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/243505441b7df985c9507a797841a4cc_coco.png",
+      "category": "BARwahKhdq"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 7,
+    "fields": {
+      "id": "H3BE6UxPK2",
+      "title": "Jambo",
+      "description": "O jambo é uma fruta tropical de sabor doce e ácido, com uma casca macia e polpa suculenta. É uma ótima fonte de vitaminas C e A, bem como minerais como o ferro e o cálcio. Pode ser consumido in natura ou usado em receitas de sucos, sorvetes e sobremesas.",
+      "price": 0.5,
+      "unit": "un",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/912a23fab654ab66f6a87617f7e45b99_jambo.png",
+      "category": "BARwahKhdq"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 8,
+    "fields": {
+      "id": "T2wVCNnJC9",
+      "title": "Manga",
+      "description": "A manga é uma fruta suculenta e doce, com uma casca macia e polpa adocicada. É uma ótima fonte de vitaminas C e A, bem como minerais como o ferro e o potássio. Pode ser consumida in natura ou usada em receitas de sucos, sorvetes e sobremesas.",
+      "price": 3.25,
+      "unit": "un",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/24d2d356a55ad5171d6f97b21af5a857_manga.png",
+      "category": "BARwahKhdq"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 9,
+    "fields": {
+      "id": "pEsouc6KZM",
+      "title": "Melancia",
+      "description": "A melancia é uma fruta suculenta e refrescante, com uma casca dura e polpa vermelha e doce. É uma ótima fonte de hidratação e de vitaminas A e C, bem como minerais importantes como o potássio. Pode ser consumida in natura ou usada em receitas de sucos, sobremesas e refeições.",
+      "price": 7,
+      "unit": "un",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/922c65c80ba31470815aac5547f3d926_melancia.png",
+      "category": "BARwahKhdq"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 10,
     "fields": {
       "id": "CqGuLvRSCv",
       "title": "Cenoura",
@@ -77,6 +150,132 @@
       "unit": "kg",
       "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/a240d7846eb59eafb0aa77b88449a9ef_cenoura.png",
       "category": "qEZV0UMzT5"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 11,
+    "fields": {
+      "id": "J0FKV1HcLF",
+      "title": "Aveia",
+      "description": "Rica em fibras, proteínas e nutrientes essenciais, a aveia é um ingrediente saudável e delicioso para quem busca uma alimentação equilibrada. Ela pode ser consumida em receitas diversas, como mingaus, bolos, pães e até mesmo como substituto do trigo em receitas sem glúten. Não perca a chance de experimentar a aveia e descobrir todos os seus benefícios para a saúde!",
+      "price": 15,
+      "unit": "kg",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/d8d64a20b1d5e6ff2c7ecef6e2b41139_aveia.png",
+      "category": "aGN3NQKlXp"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 12,
+    "fields": {
+      "id": "FhRHLPkcwK",
+      "title": "Castanha de caju",
+      "description": "Crocante e saborosa, a castanha de caju é uma das oleaginosas mais populares do mundo. Rica em nutrientes essenciais como gorduras saudáveis, vitaminas e minerais, ela é uma opção saudável e deliciosa para lanches e receitas diversas. Não deixe de experimentar a castanha de caju e descobrir todos os seus benefícios!",
+      "price": 50,
+      "unit": "kg",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/24d12bb19500b8e1aa8d863c99a34c19_castanha-caju.png",
+      "category": "aGN3NQKlXp"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 13,
+    "fields": {
+      "id": "Ab6CBurIyF",
+      "title": "Castanha do Pará",
+      "description": "Também conhecida como castanha do Brasil, a castanha do pará é uma oleaginosa extremamente nutritiva e saborosa. Rica em selênio, gorduras saudáveis e outros nutrientes, ela é uma opção saudável e deliciosa para lanches e receitas diversas. Aproveite todo o sabor e os benefícios da castanha do pará!",
+      "price": 60,
+      "unit": "kg",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/9a9666b36c5e375f02a666edb56f16c4_castanha-para.png",
+      "category": "aGN3NQKlXp"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 14,
+    "fields": {
+      "id": "U7Y24JxSQN",
+      "title": "Granola",
+      "description": "A granola é uma mistura crocante de grãos, frutas secas e nozes, perfeita para ser consumida como café da manhã ou lanche. É uma opção saudável e saciante, rica em proteínas, fibras e gorduras saudáveis. Pode ser consumido com leite, iogurte ou simplesmente como uma sobremesa.",
+      "price": 65.7,
+      "unit": "kg",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/ded071a766f86db0083e1870d9f72d03_granola.png",
+      "category": "aGN3NQKlXp"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 15,
+    "fields": {
+      "id": "CF4Bb0fq1U",
+      "title": "Feijão",
+      "description": "O feijão é um alimento básico e nutritivo, com uma ampla variedade de tipos disponíveis, incluindo feijão preto, feijão branco e feijão vermelho. É uma ótima fonte de proteínas, fibras, ferro e outros minerais importantes.",
+      "price": 10,
+      "unit": "kg",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/eac02543cd9adb3c28ce69f50ec0b956_feijao.png",
+      "category": "G1Gkh4GhGa"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 16,
+    "fields": {
+      "id": "rXTtlgsxuG",
+      "title": "Arroz",
+      "description": "Versátil e nutritivo, o arroz é um alimento indispensável na cozinha. Com diversas variedades e formas de preparo, ele pode ser servido como acompanhamento ou ingrediente principal em diversas receitas, como risotos, saladas, sushi e muito mais. Experimente o arroz agora mesmo e descubra todo o seu potencial!",
+      "price": 7,
+      "unit": "kg",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/0ad9745ff60e6697ff830a4a5654e0eb_arroz.png",
+      "category": "G1Gkh4GhGa"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 17,
+    "fields": {
+      "id": "R7EXa4Q4FV",
+      "title": "Milho",
+      "description": "O milho é um grão versátil e nutritivo, com uma ampla variedade de usos culinários. É uma ótima fonte de carboidratos, fibras e proteínas, e pode ser consumido in natura, cozido ou em forma de farinha para ser usado em receitas de pães, tortas e massas.",
+      "price": 6.5,
+      "unit": "kg",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/2292dc900f05fbfda7468b7926a1ed24_milho.png",
+      "category": "G1Gkh4GhGa"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 18,
+    "fields": {
+      "id": "HykIVVHBDG",
+      "title": "Açafrão",
+      "description": "Conhecido por suas propriedades medicinais e culinárias, o açafrão é uma especiaria valiosa e extremamente saborosa. Ele pode ser utilizado em receitas diversas, como arroz, carnes, sopas e muito mais, e é reconhecido por sua cor vibrante e sabor marcante. Experimente o açafrão agora mesmo e descubra todo o seu potencial!",
+      "price": 120,
+      "unit": "kg",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/729012086a08add33eabb430163df9d9_acafrao.png",
+      "category": "FfR42OYUu5"
+    }
+  },
+
+  {
+    "model": "api.product",
+    "pk": 18,
+    "fields": {
+      "id": "hnpjASDJWx",
+      "title": "Cominho",
+      "description": "O cominho é uma especiaria picante e aromática que adiciona um toque especial a uma ampla variedade de pratos. É uma fonte rica de antioxidantes e anti-inflamatórios, e também pode ajudar a melhorar a digestão e a saúde geral do corpo.",
+      "price": 27.8,
+      "unit": "kg",
+      "picture": "https://parsefiles.back4app.com/wK7GcEjr2V4br5q5mlR1kybQ5dvxMFDX0qtE1d6Y/c036d7bac0db9cca02bf4870ff0872b9_cominho.png",
+      "category": "FfR42OYUu5"
     }
   }
 ]
